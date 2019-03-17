@@ -1,2 +1,3 @@
 # Shake
 123
+Toto je testovací README ke školní práci...
